@@ -26,7 +26,7 @@ This structure tells the one to many relationship from flight_information to pas
 
 ![Data Modeling](https://github.com/user-attachments/assets/60d2ca43-61c1-4a1b-a8ef-120cdee40a4b)
 
-📈 3. Enhanced Data Insights
+Enhanced Data Insights
 
 In this step, we enriched the dataset to make insights more actionable and intuitive using Power BI's data transformation tools.
 Key Enhancements:
@@ -47,7 +47,7 @@ Flight Number Extraction:
 Final Dashboard
 
 The final dashboard offers a consolidated, interactive view of key airline operations. It enables quick insights into passenger trends, booking status, flight performance, and route distribution.
-✅ Included Visuals
+Included Visuals:
 
     Summary Cards:
 
