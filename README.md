@@ -22,7 +22,8 @@ To ensure efficient querying and accurate reporting, we created a star schema mo
 
         passenger_information → flight_information
 
-This structure enables seamless aggregation of passenger counts, ticket statuses, and flight-specific insights.
+This structure tells the one to many relationship from flight_information to passenger_information and flight_information to ticket_information.
+
 ![Data Modeling](https://github.com/user-attachments/assets/60d2ca43-61c1-4a1b-a8ef-120cdee40a4b)
 
 📈 3. Enhanced Data Insights
